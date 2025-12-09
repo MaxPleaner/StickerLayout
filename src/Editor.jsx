@@ -84,7 +84,7 @@ function Editor() {
         <small style={{ display: 'inline-block', marginLeft: '10px' }}>
           By <a href="https://maxpleaner.com" target="_blank" rel="noopener noreferrer">Max Pleaner</a> 
           <br />
-          <a href="https://github.com/maxpleaner/image-grid-generator" target="_blank" rel="noopener noreferrer">Source Code</a>
+          <a href="https://github.com/MaxPleaner/StickerLayout" target="_blank" rel="noopener noreferrer">Source Code</a>
         </small>
       </div>
 
