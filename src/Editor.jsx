@@ -9,8 +9,7 @@ const DEFAULT_CONFIG = {
 }
 
 const DEFAULT_INSTRUCTIONS = `
-30, hamster, https://media.tenor.com/vLEZ2KX_AIEAAAAM/hampton-hamster.gif, 2
-30, coffeescript, https://cdn.iconscout.com/icon/free/png-256/coffee-script-3629290-3031874.png, 2, 8
+100, hamster, https://media.tenor.com/vLEZ2KX_AIEAAAAM/hampton-hamster.gif, 2
 `.trim()
 
 const EXAMPLE_INSTRUCTIONS = `
